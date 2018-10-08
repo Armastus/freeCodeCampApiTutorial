@@ -20,7 +20,8 @@
   "homepage": "https://github.com/Armastus/freeCodeCampApiTutorial#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "xmlhttprequest": "^1.8.0"
   },
   "devDependencies": {
     "mongoose": "^5.3.1",
